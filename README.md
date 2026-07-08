@@ -33,6 +33,6 @@ This model was trained on **pediatric** X-rays (ages 1–5). It will not general
 ## Run it
 Open in Google Colab and add your Kaggle API credentials to download the dataset.
 
-## 👨‍💻 Author
+## 👩‍💻 Author
 
 **Alaa Mekawi**
